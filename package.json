@@ -1,0 +1,19 @@
+{
+  "name": "ponygram",
+  "version": "0.0.1",
+  "private": true,
+
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "dependencies": {
+    "express": "3.0.6",
+    "jade": "0.28.1"
+  },
+  
+  "devDependencies": {
+    "awsbox": "0.3.5",
+    "vows": "0.7.0"
+  }
+}

@@ -1,0 +1,8 @@
+*.un~
+*.swp
+*.swo
+.DS_Store?
+
+# locally installed node modules
+node_modules
+.gitmodules
